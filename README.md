@@ -3,7 +3,7 @@ Scaffolding for writing thesis.
 
 # Contents
 1. [Results](#1-Results)
-2. [Conclutions](#2-Conclutions])
+2. [Conclusions](#2-Conclusions])
 3. [Recommendations](#3-Recommendations)
 
 #### 1. Results
@@ -20,7 +20,7 @@ In case of an open-source migration project, could be added here the % compatibi
 Artifacts:
 In case of an open-source migration project, here could be listed the artifacts produced, such as the binaries of different operating-systems, also the artifacts from the different tooling related in order to mantain the project. 
 
-#### 2. Conclutions
+#### 2. Conclusions
 What are the answers of the secondary questions that are part of this research ?
 What are the end-results describing that the objectives were successfully achieved ?
 
