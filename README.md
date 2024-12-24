@@ -2,9 +2,9 @@
 Scaffolding for writing thesis.
 
 # Contents
-1. [Results](####Results)
-2. [Conclutions](####Conclutions])
-3. [Recommendations](####Recommendations)
+1. [Results](#1-Results)
+2. [Conclutions](#2-Conclutions])
+3. [Recommendations](#3-Recommendations)
 
 #### 1. Results
 What was found as part of this research, focused on the main research question ?
