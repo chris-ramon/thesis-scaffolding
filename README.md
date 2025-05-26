@@ -18,11 +18,36 @@ Quantitative data:
 In case of an open-source migration project, could be added here the % compatibility of unit tests using a tool for showing the numbers of cases covered, also could be added here the results of numbers comparing each main components of the source. 
 
 Artifacts:
-In case of an open-source migration project, here could be listed the artifacts produced, such as the binaries of different operating-systems, also the artifacts from the different tooling related in order to mantain the project. 
+In case of an open-source migration project, here could be listed the artifacts produced, such as the binaries of different operating-systems, also the artifacts from the different tooling related in order to mantain the project.
+
+***
+Template:
+
+Results are about show the data.
+
+What was found as part of the research, focused on the main research question ?
+What are the research data collected that supports the success of this research, text and numbers end-results ?
+
+Qualitative data:
+List of unit tests from reference implementation.
+
+Quantitative data:
+Percentage compatibility of unit tests against reference implementation.
+***
 
 #### 2. Conclusions
 What are the answers of the secondary questions that are part of this research ?
 What are the end-results describing that the objectives were successfully achieved ?
+
+***
+Template:
+
+Conclusions are about analyzing the data from the results and answering the main questions.
+
+What are the answers of the secondary questions that are part of the research ?
+What are the end results describing that the objectives were successfully accomplished ?
+
+***
 
 #### 3. Recommendations
 What are the recommendations for future related work that is tie to this thesis ?
